@@ -1,0 +1,29 @@
+{
+  "name": "async",
+  "main": "dist/async.js",
+  "ignore": [
+    "bower_components",
+    "lib",
+    "test",
+    "node_modules",
+    "perf",
+    "support",
+    "**/.*",
+    "*.config.js",
+    "*.json",
+    "index.js",
+    "Makefile"
+  ],
+  "homepage": "https://github.com/caolan/async",
+  "version": "3.2.6",
+  "_release": "3.2.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.2.6",
+    "commit": "a18c58107e694cb83d258f92533e758d96c2e49a"
+  },
+  "_source": "https://github.com/caolan/async.git",
+  "_target": "^3.2.6",
+  "_originalSource": "async",
+  "_direct": true
+}
